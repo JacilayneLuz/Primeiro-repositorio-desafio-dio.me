@@ -1,0 +1,46 @@
+Programar não é digitar códigos.
+
+Metacognição - pensar como como vc pensa
+Abstração é a dvisão do todo em partes.
+Programar é resolver problemas.
+
+Alogoritmo é uma sequência de passos para solucionar um problema. É preciso indicar o início e fim de uma atividade. 
+
+Pseudocódigo é uma forma de escrever um algoritmo de uma forma simples.
+
+Fluxograma, variáveis, constantes e tipos de dados
+
+Fluxograma - representa uma sequência lógica e coerente do fluxo de dados;
+Entre o início e fim há um fluxos dedados;
+fluxograma tambem pode ser entendida como uma representação esquemática de um processo.
+varável é um objeto, posição... é alterado durante a execução do algoritmo.
+As variáveis e constantes podem ser classificadas basiamente de 4 tipos: numéricas, caracteres, alfanuméricas ou lógicas.
+Constantes são valores imutáveis e não são alterados durante a vida últil do programa.
+Expressões aritméticas - funções aritéticas utilizando consntantes e variáveis. Ex.: 50+50
+
+Operações:
+Soma +
+subtração -
+multiplicação *
+divisão /potenciação ^
+porcentagem %
+ aquelas que possume constantes e/ ou variáveis que tem como resultado valores literais. Ex.: nome="José da Silva"
+expressões literais - são
+expressões relacionais - compostas por outras expressões ou variáveis numéricas com operadores relacionais. elas retornam valores lógicos(falso/verdadeiro)
+Operadores relacionais:
+> maior que
+< menor que
+>= maior ou igual
+<= menor ou igual
+==igualdade
+!= diferente de
+
+Concatenação é um termo usado para designar a operação de unir o conteúdo de duas strings(sequência de caracteres).
+
+Introdução ao Portugol
+Estrutura de repetição
+Portugou é uma pseudo linguagem que permite uma estrutura no português
+Matriz, coleção de variáveis de mesmo tipo.
+índice - individualização de cada variável de um vetor. Como tabela de linhas e colunas que indica uma posição
+
+Vetores são matrizes de uma só dimensão.
